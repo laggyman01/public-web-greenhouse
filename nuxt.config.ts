@@ -42,6 +42,7 @@ export default defineNuxtConfig({
     '/spa': { ssr: false },
     '/static': { static: true },
     '/swr': { swr: true },
+    '/**': { prerender: true }
   },
   compatibilityDate: '2025-04-22',
 })
