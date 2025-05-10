@@ -1,4 +1,7 @@
 <template>
+  <div class="text-indigo text-h5 text-center">
+    TEST SLIDE
+  </div>
   <v-carousel
     height="400"
     show-arrows="hover"

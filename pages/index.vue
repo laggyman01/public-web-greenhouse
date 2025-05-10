@@ -4,18 +4,10 @@ import Bodyhome from '~/components/bodyhome.vue';
 </script>
 
 <template>
-  
-<img-slider-homepage>
-</img-slider-homepage>
-
-<bodyhome>
-
-</bodyhome>
-
-<image-gallery>
-    
-</image-gallery>
-
- 
+    <div>
+        <img-slider-homepage></img-slider-homepage>
+        <bodyhome></bodyhome>
+        <image-gallery></image-gallery>
+    </div>
 </template>
 
