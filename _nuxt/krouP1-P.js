@@ -1,0 +1,1 @@
+import{_ as t,t as a,y as o,af as r,v as s}from"./BGFzJecH.js";const n={};function c(e,_){return s(),a("div",null,o((e._.provides[r]||e.$route).params.type),1)}const l=t(n,[["render",c]]);export{l as default};
